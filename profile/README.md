@@ -1,4 +1,5 @@
-## 2024 Google Solution Challenge
+# 2024 Google Solution Challenge
+![image](https://github.com/GDSC-C-E/.github/assets/116738827/ed812d4e-1b8b-4fe0-9ea2-6aac16f4783e)
 
 ---
 
