@@ -9,6 +9,14 @@ With Al-powered assistance, users can conveniently request repairs, and upon mat
 
 ---
 
+## Run Android Application
+1. Git clone mobile repository
+2. Run Android Studio and open it
+3. Add the emulator and run it
+```
+git clone https://github.com/GDSC-C-E/Mobile.git
+```
+
 ## To Run Backend Application
 
 1. Git Clone Backend Repository
