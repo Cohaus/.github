@@ -1,15 +1,13 @@
-# 2024 Google Solution Challenge
+# Cohaus
+> 2024 Google Solution Challenge </br>
+> _Gachon Univ._
+
+"Cohaus" is a platform that assist in improving living environment of vulnerable populations. </br>
+With Al-powered assistance, users can conveniently request repairs, and upon matching with volunteers, the platform facilitates both repair and waste disposal, creating a sustainable cycle.
+
 ![image](https://github.com/GDSC-C-E/.github/assets/116738827/ed812d4e-1b8b-4fe0-9ea2-6aac16f4783e)
 
-- [About Cohaus](#Cohaus)
-- [Getting Started](#Getting-Started)
-- [Team Member](#Team-Member)
-
 ---
-
-# Cohaus
-"Cohaus" is a platform that assist in improving living environment of vulnerable populations.
-With Al-powered assistance, users can conveniently request repairs, and upon matching with volunteers, the platform facilitates both repair and waste disposal, creating a sustainable cycle.
 
 ### Demo Video (on Youtube)
 https://youtu.be/tiJGJ4WtB5k
@@ -17,7 +15,15 @@ https://youtu.be/tiJGJ4WtB5k
 ---
 
 # Main Feature
+![1](https://github.com/Cohaus/.github/assets/116738827/5e20e564-7e6a-4772-bd36-4281e2c09768)
 
+![2](https://github.com/Cohaus/.github/assets/116738827/3c40dfef-9282-4f3b-9a67-d8f8afc534d6)
+
+![3](https://github.com/Cohaus/.github/assets/116738827/e44b2705-0c1b-4777-9a59-c0006bd57d84)
+
+![4](https://github.com/Cohaus/.github/assets/116738827/e676547c-908e-4554-9a18-4463304eb79f)
+
+![5](https://github.com/Cohaus/.github/assets/116738827/a3a0e358-2939-437e-959e-4854f70af72e)
 
 ---
 
